@@ -1,6 +1,6 @@
 **Increate Software Development Process**
-###### Increate Software's Software Development Process:  How it works
-and What you can expect ######
+
+###### Increate Software's Software Development Process: How it works and What you can expect ######
 
 <div class="header-columns">
     <div class="header-name-date">
