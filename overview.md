@@ -85,14 +85,41 @@ that will lead the day to day operations of the project, ensure good
 tactical communication, and remove any roadblocks that happen during
 the development.
 
+  * Architecture / Designers -- Increate Software will provide the
+necessary Architecture / Designers for your projects needs
 
+  * Requirement Analyst -- Increate Software will provide the necessary
+Requirement Analysts 
 
+  * Developer / Testers -- Increate Software will provide the necessary
+Developers / Testers for your projects needs
+
+Note: Individuals may fill more than one role
 
 ## Consultation ##
+The initial consultation is an essential meeting between primary
+decision makers at your organization and Increate Software. The
+objective of this meeting is share information about how we work and
+what your project objectives are. Increate Software will introduce an
+executive in charge of your account and record initial impressions of
+the resources you may need.  We will offer you any suggestions or
+impressions we have for your work and schedule next steps.
 
 ## Kickoff ##
+In the time period between the initial consultation and the Kickoff
+meeting Increate Software will review any written documentation
+and/or industry specific information you may have
+
+During the kickoff meeting we will introduce the Increate Team Members
+to your team.  Identify essential team members and outline a
+Sprint 0 which is a two week pre-sprint meant to accomplish meaningful
+work while resources are getting up to speed.
+
+During Sprint 0
+
 
 ## First Program Increment ##
+
 
 ## First Sprint ##
 
