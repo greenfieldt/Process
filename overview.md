@@ -15,8 +15,7 @@
 </div>
 
 ---
-
-![SAFE Essentials](https://www.scaledagileframework.com/wp-content/uploads/2018/07/46BP-ESSENTIAL.png "SAFE Essentials")
+![Agile Alliance](https://firebasestorage.googleapis.com/v0/b/increatesoftware.appspot.com/o/IncreateSoftware%2Fagile-alliance.jpeg?alt=media&token=e946cfc6-3397-4e56-8ff2-544903b2b910"Agile Alliance")
 
 #### Quick Thought on Process ####
 
