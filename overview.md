@@ -120,10 +120,76 @@ During Sprint 0
 
 ## First Program Increment ##
 
+Planning for the first Program Increment will begin and finish towards
+the end of sprint 0.  During this time the high level goals of the
+next quarter will be addressed as well as they are known. Our
+objective is to break down each quarter into two week chunks of work
+and assign a feature based goal to each chunk.  For instance if the
+goal of PI 1 is to create a web app for a retail product  the goal
+of Sprint 1 may be to create an app shell with minimal content.
+sprint 2 may be to add real-time cloud based backend support, sprint 3 add a cloud
+based payment processing system, sprint 4 integrate with a cloud based
+POS system, Sprint 5 add cloud based customer support, sprint 6
+conduct integration and deployment testing. 
 
-## First Sprint ##
+Once we have identified the theme and high level goals of each sprint,
+one Increate team member will work with you to clarify open questions
+and add more details before the start of individual sprints.
+
+When a project is of enough complexity to require multiple PIs the
+next PI planning will begin in the last sprint of the current PI and
+continue the process as outlined above.
+
+## Sprints ##
+Each sprint will begin with a sprint planning session.  During this
+session all the known information around the theme and objectives of
+the sprint will be reviewed with the full team and a detailed plan
+will be created.  This is where the product owner will be asked many
+questions on how the product should work and why certain features have
+been requested.  Any open questions will be marked as high priority
+for follow up.  At the end of the planning session each member of
+the team should have be allocated to two weeks worth of work.
+
+Every day the entire team will participate in a short meeting where
+the SCRUM master asks three questions to each participant:
+
+1.) What did you do yesterday? 
+2.) What are you going to do today?
+3.) Do you have any blockers?
+
+If the SCRUM master identifies any blockers it is their priority to
+resolve the problems so they team can remain productive.
+
+At the end of a final meeting is convened where the software
+development team presents the completed objectives to the product
+owner as well as other deliverables such as documentation and the
+results of testing.  The product owner is then asked to accept or
+reject the work.  If the work is accepted it is moved to the done
+column if the work is reject the required fixes are scheduled into the
+next sprint for immediate resolution.
+
+## Testing ##
+
+All work products from Increate Software will undergo some form of
+quality control.  With documentation this may be a review, with source
+code it is usually some form of testing (Unit Test, Visual Test,
+Integration Test, Automated Test, etc.).  In some situations code
+review may take the place of a test.
 
 ## Deployment ##
 
+We strive to never be more than one sprint away from deploying your
+development code to production.  We take this into account when we
+allocate work to a sprint and objectives to a PI.  We maintain a
+"staging" deployment at all times so you are able to monitor the
+progress of your development efforts.  And we give you the option to
+push these staging deployments to production as often as you wish. In
+general any release to deployment can be rolled back in the event of
+unexpected behavior.  Occasionally, when the nature of the deployment is one
+that is impossible, or significantly more difficult, to roll back the
+product owner will be informed.
+
 ## Maintenance and Support ##
 
+After a deployment of the product Increate Software will provide
+maintenance and support of the code base at your request.
