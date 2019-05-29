@@ -1,4 +1,4 @@
-**Increate Software Development Process**
+**Increate Software's Development Process**
 ###### Increate Software's Software Development Process: How it works and What you can expect ######
 
 <div class="header-columns">
@@ -18,4 +18,17 @@
 
 ![SAFE Essentials](https://www.scaledagileframework.com/wp-content/uploads/2018/07/46BP-ESSENTIAL.png "SAFE Essentials")
 
-**The Idea:**
+## Software Development Paradigm ##
+
+## Consultation ##
+
+## Kickoff ##
+
+## Program Increment ##
+
+## Sprint ##
+
+## Deployment ##
+
+## Maintenance and Support ##
+
